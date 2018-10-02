@@ -1,0 +1,16 @@
+{
+  "name": "zadanie-13.9",
+  "version": "1.0.0",
+  "description": "Pierwszy duży projekt",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "author": "Tomasz Lis",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.3.2",
+    "stat-mode": "^0.2.2"
+  }
+}
